@@ -1,0 +1,24 @@
+# Core dependencies for training and synthetic-data generation.
+# For an exact, reproducible environment (incl. CUDA builds) use envs/llama.yml.
+# Evaluation uses a separate environment, see envs/babylm-eval.yml.
+
+torch==2.6.0
+transformers==4.49.0
+accelerate==1.6.0
+datasets
+tokenizers==0.21.0
+sentencepiece==0.2.0
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+pyarrow==19.0.1
+wandb==0.19.8
+
+# Data download (BabyLM corpus is hosted on OSF)
+osfclient==0.0.5
+
+# Evaluation helpers (see envs/babylm-eval.yml for the full pipeline)
+lm_eval==0.4.2
+minicons==0.3.30

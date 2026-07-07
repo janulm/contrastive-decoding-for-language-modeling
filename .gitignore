@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Weights & Biases logs
+wandb/
+logs/
+
+# Data, checkpoints, and generated corpora (kept out of the repo)
+data/osf_download*/
+data/tinybabylm_dataset*/
+data/tinystories*/
+checkpoints/
+eval_results/
+*.arrow
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
