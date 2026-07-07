@@ -1,6 +1,6 @@
 # Contrastive Decoding for Synthetic Data Generation in Low-Resource Language Modeling
 
-Official code for the paper **"Contrastive Decoding for Synthetic Data Generation in Low-Resource Language Modeling"** by [Jannek Ulm](mailto:jannek.ulm@gmail.com), [Kevin Du](mailto:kevin.du@inf.ethz.ch), and [Vésteinn Snæbjarnarson](mailto:vest.snae@gmail.com) (ETH Zürich & University of Copenhagen), published at the **First BabyLM Workshop (EMNLP 2025), Suzhou, China**.
+Official code for the paper **"Contrastive Decoding for Synthetic Data Generation in Low-Resource Language Modeling"** by [Jannek Ulm](mailto:jannek.ulm@gmail.com), [Kevin Du](mailto:kevin.du@inf.ethz.ch), and [Vésteinn Snæbjarnarson](mailto:vest.snae@gmail.com) (ETH Zürich & University of Copenhagen), published at the **BabyLM Workshop, EMNLP 2025, Suzhou, China**.
 
 - 📄 ACL Anthology: https://aclanthology.org/2025.babylm-main.2/
 - 📄 arXiv: https://arxiv.org/abs/2510.08245
